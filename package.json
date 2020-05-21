@@ -1,0 +1,18 @@
+{
+  "name": "hyper-cyberpunk",
+  "version": "1.0.2",
+  "description": "A cyberpunk filter for hyper terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mannie Festo",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.throttle": "^4.1.1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/manniefesto/hyper-cyberpunk.git"
+  }
+}
